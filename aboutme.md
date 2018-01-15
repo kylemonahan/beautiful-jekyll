@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: More about Kyle:
 ---
+I enjoy using statistical and GIScience tools to analyze complex systems through map design, data analysis, and environmental testing.
 
-My name is Inigo Montoya. I have the following qualities:
+## History 
+I have a background in environmental science and engineering, with a specific focus on geochemical techniques applied to water. My previous work includes developing sediment contaminant chronologies for the Hudson River at Rensselaer Polytechnic Institute (Troy, NY), and work in developing low-cost filters with arsenic adsorbents at Clarkson University (Potsdam, NY). I came to Tufts in 2014 joining the Water Diplomacy IGERT program. My most recent graduate work at Tufts used agent-based models to investigate the role of social and behavioral factors on the feasibility of point of use water technologies.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Currently 
+I consult with faculty, students and staff as the Statistics and Research Technology Specialist at Tufts University. 
